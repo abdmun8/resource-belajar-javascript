@@ -1,6 +1,6 @@
 # Resource Belajar Javascript
 
-## Dasar javascript
+## Dasar Javascript
 * [Artikel by Petani Kode](https://www.petanikode.com/tutorial/javascript/)
 
 ## Panduan Komplit Asynchronous Programming pada Javascript
