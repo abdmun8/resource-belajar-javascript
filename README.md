@@ -2,6 +2,7 @@
 
 ## Dasar Javascript
 * [Artikel by Petani Kode](https://www.petanikode.com/tutorial/javascript/)
+* [Artikel by javascrip.info](https://javascript.info/)
 
 ## Panduan Komplit Asynchronous Programming pada Javascript
 * [Konsep asynchronus](https://medium.com/coderupa/panduan-komplit-asynchronous-programming-pada-javascript-part-1-fca22279c056)
