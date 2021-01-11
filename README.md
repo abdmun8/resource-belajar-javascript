@@ -14,7 +14,7 @@
 
 ## React
 * [Pembukaan](https://medium.com/coderupa/mau-belajar-react-di-2018-7e751b00af9c)
-* [Pengenalan](https://medium.com/codeacademia/belajar-react-4a4aeed498cc)
 * [10 Fitur ES6 Yang Wajib Dipelajari Sebelum Belajar React](https://medium.com/codeacademia/10-fitur-es6-yang-wajib-dipelajari-sebelum-belajar-react-6614c0ddb636)
+* [Pengenalan](https://medium.com/codeacademia/belajar-react-4a4aeed498cc)
 
 
