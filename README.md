@@ -12,4 +12,8 @@
 
 ## ES6
 
+## React
+* (Pembukaan)[https://medium.com/coderupa/mau-belajar-react-di-2018-7e751b00af9c]
+* (Pengenalan)[https://medium.com/codeacademia/belajar-react-4a4aeed498cc]
+
 
